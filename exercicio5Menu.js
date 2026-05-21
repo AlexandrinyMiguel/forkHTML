@@ -4,10 +4,10 @@ const prompt = require('prompt-sync')();
 let opcao;
 
 do {
-    console.log("\n=== MENU PRINCIPAL ===");
-    console.log("1 - Somar ");
-    console.log("2 - Subtrair ");
-    console.log("3 - Sair ");
+    // console.log("\n=== MENU PRINCIPAL ===");
+    // console.log("1 - Somar ");
+    // console.log("2 - Subtrair ");
+    // console.log("3 - Sair ");
 
     opcao = readlineSync.questionInt("Escolha uma opção: ");
 
